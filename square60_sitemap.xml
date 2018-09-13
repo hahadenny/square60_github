@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>https://www.square60.com/search_sitemap.xml</loc>
+      <lastmod>2018-08-22</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>https://www.square60.com/listings_sitemap.xml</loc>
+      <lastmod>2018-08-22</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>https://www.square60.com/buildings_sitemap.xml</loc>
+      <lastmod>2018-08-22</lastmod>
+   </sitemap>
+   <sitemap>
+      <loc>https://www.square60.com/agents_sitemap.xml</loc>
+      <lastmod>2018-08-22</lastmod>
+   </sitemap>
+   </sitemapindex>
