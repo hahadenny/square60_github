@@ -1,0 +1,1038 @@
+####### 2018-07-11 11:03:14 #######
+$ echo $PWD
+/var/app/current/square60/public
+$ whoami
+webapp
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   a1203fc..b4dbb3e  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working tree clean
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 11:03:19 #######
+$ echo $PWD
+/var/app/current/square60/public
+$ whoami
+webapp
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   a1203fc..b4dbb3e  master     -> origin/master
+Updating a1203fc..b4dbb3e
+Fast-forward
+ resources/views/index2.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	deploy-log.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 11:04:07 #######
+$ echo $PWD
+/var/app/current/square60/public
+$ whoami
+webapp
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   b4dbb3e..8f51fd6  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	deploy-log.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 11:04:12 #######
+$ echo $PWD
+/var/app/current/square60/public
+$ whoami
+webapp
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   b4dbb3e..8f51fd6  master     -> origin/master
+Updating b4dbb3e..8f51fd6
+Fast-forward
+ resources/views/index2.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	deploy-log.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:52:41 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working tree clean
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:52:47 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:53:21 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:55:51 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:55:55 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+error: insufficient permission for adding an object to repository database .git/objects
+fatal: failed to write object
+fatal: unpack-objects failed
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:57:41 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   cd3cb9b..1e731dc  master     -> origin/master
+   cd3cb9b..95c976b  dennydev   -> origin/dennydev
+Updating cd3cb9b..1e731dc
+Fast-forward
+ resources/views/index2.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:57:45 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   1e731dc..95c976b  master     -> origin/master
+Updating 1e731dc..95c976b
+Fast-forward
+ resources/views/index2.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:58:33 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   95c976b..3d419af  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 15:58:37 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   95c976b..3d419af  master     -> origin/master
+Updating 95c976b..3d419af
+Fast-forward
+ resources/views/index2.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 16:01:25 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   c0435a9..56653c6  chinese    -> origin/chinese
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 16:02:26 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   56653c6..0b7c744  chinese    -> origin/chinese
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 16:03:27 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   0b7c744..6e20821  chinese    -> origin/chinese
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 16:05:10 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   6e20821..65c5659  chinese    -> origin/chinese
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 16:06:47 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   65c5659..9b40487  chinese    -> origin/chinese
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 18:08:00 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   3d419af..3bd018c  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 18:08:07 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   3d419af..3bd018c  master     -> origin/master
+Updating 3d419af..3bd018c
+Fast-forward
+ app/Console/Commands/CheckFeatureListing.php | 20 ++++++++++++++++++++
+ app/Feature.php                              |  2 +-
+ app/Http/Controllers/BillingController.php   | 14 +++++++++++---
+ app/Repositories/UserRepo.php                | 23 +++++++++++++++++++++--
+ resources/views/billing.blade.php            | 24 ++++++++++++++++++++++++
+ resources/views/layouts/header2_1.blade.php  |  3 +++
+ 6 files changed, 80 insertions(+), 6 deletions(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 20:32:52 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   3bd018c..323814f  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-11 20:32:56 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   3bd018c..323814f  master     -> origin/master
+Updating 3bd018c..323814f
+Fast-forward
+ app/Console/Commands/CheckFeatureListing.php |  9 +++++++++
+ app/Repositories/UserRepo.php                | 18 +++++++++++++++---
+ resources/views/upgrade.blade.php            | 26 ++++++++++++++++++++++----
+ 3 files changed, 46 insertions(+), 7 deletions(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 01:55:38 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   323814f..a627db3  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 01:55:44 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   323814f..a627db3  master     -> origin/master
+Updating 323814f..a627db3
+Fast-forward
+ app/Console/Commands/CheckFeatureListing.php |  22 ++-
+ app/Repositories/UserRepo.php                |  26 +++-
+ public/css/bulma2.css                        |  12 +-
+ resources/views/feature.blade.php            |   8 +-
+ resources/views/premium.blade.php            |  14 ++
+ resources/views/upgrade.blade.php            | 215 +++++++++++++++++++++++----
+ 6 files changed, 253 insertions(+), 44 deletions(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:11:49 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   a627db3..207e1a7  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:13:40 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   a627db3..207e1a7  master     -> origin/master
+   207e1a7..95b13cf  dennydev   -> origin/dennydev
+Updating a627db3..207e1a7
+Fast-forward
+ storage/logs/.gitignore   | 2 +-
+ storage/logs/clean_log.sh | 6 ++++++
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+ create mode 100644 storage/logs/clean_log.sh
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:13:44 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   207e1a7..95b13cf  master     -> origin/master
+Updating 207e1a7..95b13cf
+Fast-forward
+ resources/views/premium.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:14:27 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   95b13cf..466605a  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:14:31 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   95b13cf..466605a  master     -> origin/master
+Updating 95b13cf..466605a
+Fast-forward
+ resources/views/premium.blade.php | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   deploy-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:27:12 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   466605a..e131eef  master     -> origin/master
+   466605a..e131eef  dennydev   -> origin/dennydev
+Updating 466605a..e131eef
+Fast-forward
+ resources/views/building2.blade.php | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../app/Repositories/ShowRepo.php
+	modified:   deploy-log.txt
+	modified:   ../storage/logs/clean_log.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../app/Repositories/.ShowRepo.php.swp
+	../storage/logs/laravel.log.1
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:28:55 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   e131eef..1caa4c7  dennydev   -> origin/dennydev
+Already up-to-date.
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../app/Repositories/ShowRepo.php
+	modified:   deploy-log.txt
+	modified:   ../storage/logs/clean_log.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../app/Repositories/.ShowRepo.php.swp
+	../storage/logs/laravel.log.1
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:29:00 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   e131eef..1caa4c7  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	app/Repositories/ShowRepo.php
+Please commit your changes or stash them before you merge.
+Aborting
+Updating e131eef..1caa4c7
+$ git status
+On branch master
+Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../app/Repositories/ShowRepo.php
+	modified:   deploy-log.txt
+	modified:   ../storage/logs/clean_log.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../app/Repositories/.ShowRepo.php.swp
+	../storage/logs/laravel.log.1
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-07-12 02:31:19 #######
+$ echo $PWD
+/var/www/html/square60/public
+$ whoami
+apache
+$ git pull
+From github.com:LilyLi98/Square60Denny
+   1caa4c7..1c2bee8  master     -> origin/master
+   1caa4c7..1c2bee8  dennydev   -> origin/dennydev
+error: Your local changes to the following files would be overwritten by merge:
+	app/Repositories/ShowRepo.php
+Please commit your changes or stash them before you merge.
+Aborting
+Updating e131eef..1c2bee8
+$ git status
+On branch master
+Your branch is behind 'origin/master' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../app/Repositories/ShowRepo.php
+	modified:   deploy-log.txt
+	modified:   ../storage/logs/clean_log.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../storage/logs/laravel.log.1
+
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
